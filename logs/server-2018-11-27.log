@@ -1,0 +1,11 @@
+[2018-11-27T10:12:33.453] [DEBUG] normal - {"type":1,"name":"client_1543284753431"}
+[2018-11-27T10:12:42.276] [DEBUG] normal - 断开连接
+[2018-11-27T10:12:42.277] [DEBUG] normal - { Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:139:27) errno: 'ECONNRESET', code: 'ECONNRESET', syscall: 'read' }
+[2018-11-27T10:12:42.298] [DEBUG] normal - {"type":1,"name":"client_1543284762298"}
+[2018-11-27T10:12:48.886] [DEBUG] normal - {"type":1,"name":"client_1543284768887"}
+[2018-11-27T10:13:03.840] [DEBUG] normal - {"type":1,"name":"client_1543284783839"}
+[2018-11-27T10:14:52.497] [DEBUG] normal - {"type":1,"name":"client_1543284892496"}
+[2018-11-27T10:14:52.500] [DEBUG] normal - client_1543284892496已连接
+[2018-11-27T10:23:44.843] [DEBUG] normal - {"type":1,"name":"client_1543285424842"}
+[2018-11-27T10:23:44.845] [DEBUG] normal - client_1543285424842已连接
